@@ -1,3 +1,42 @@
+/* 
+:root {
+    --main-color-green: #4e7141;
+    --main-color-beige: #f9e9c2;
+    --main-color-orange: #ff8d06;
+    --main-color-brown: #491b02;
+    --card-color-orange: #ff9a41;
+    --card-color-green: #3c593e;
+    --text-color-white: #fff;
+    --text-color-black: #000;
+    --invalid-color-red: #ff0000;
+    --header-font: 'Poppins-Black', sans-serif;
+    --sub-header-font: 'Poppins-Bold', sans-serif;
+    --paragraph-font: 'Poppins-Medium', sans-serif;
+    --link-font: 'Poppins-Regular', sans-serif;
+    --border-bigCard: 2em;
+    --border-card: 1.0625em;
+    --image-gradient: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 100%);
+} */
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.one {
+  grid-column: 1 / 3;
+  grid-row: 1;
+}
+.two {
+  grid-column: 2 / 4;
+  grid-row: 1 / 3;
+}
+.three {
+  grid-column: 1;
+  grid-row: 2 / 5;
+}
+
 body {
     font-family: "Relieve", sans-serif;
     background-color: #143911 ;
@@ -22,4 +61,12 @@ p {
     border-radius: 10px;
     width: 80vw;
     margin: auto;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
 }
