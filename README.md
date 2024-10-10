@@ -29,8 +29,8 @@ De bais van de pagina staat al wel, op de stekjes pagina kan je een overzicht zi
 
 ## Schetsen
 Hier onder staan de schetsen voor een desktop:
-![image](https://github.com/user-attachments/assets/c0c60b8e-1591-4847-b2e4-1c3016b2a9a0)![image]
-(https://github.com/user-attachments/assets/9a71b8cf-449f-41db-a140-fb79472d7c8a)
+![image](https://github.com/user-attachments/assets/c0c60b8e-1591-4847-b2e4-1c3016b2a9a0)
+![image](https://github.com/user-attachments/assets/9a71b8cf-449f-41db-a140-fb79472d7c8a)
 ![image](https://github.com/user-attachments/assets/afa1345c-2f6d-42f1-a381-45333454eb04)
 
 Hieronder staan de schetsen voor de mobile versie:
