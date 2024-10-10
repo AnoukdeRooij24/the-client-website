@@ -9,6 +9,9 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com
 ## Inhoudsopgave Readme
 
   * [Beschrijving](#beschrijving)
+  * [Wat ga ik doen?](#Wat-ga-ik-doen?)
+  * [Huidig resultaat van de website](#huidig-resultaat-van-de-website)
+  * [Schetsen](#schetsen)
   * [Kenmerken](#kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
@@ -31,12 +34,19 @@ Hier onder staan de schetsen voor een desktop:
 ![image](https://github.com/user-attachments/assets/afa1345c-2f6d-42f1-a381-45333454eb04)
 
 Hieronder staan de schetsen voor de mobile versie:
+
 ![image](https://github.com/user-attachments/assets/f3bbe129-41de-429b-8f44-3acfcfb40699)
+
 *klik op een plant*
+
 ![image](https://github.com/user-attachments/assets/2628b5ec-8d4f-47ee-85e6-ddaeefcfbbb4)
+
 *scroll naar beneden*
+
 ![image](https://github.com/user-attachments/assets/d1c08826-6aab-46b3-938c-5e1b9a52b594)
+
 *klik op informatie*
+
 ![image](https://github.com/user-attachments/assets/0e8c704b-65b0-44e8-868b-94d7c3ee04a9)
 
 
