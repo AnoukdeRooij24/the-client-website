@@ -9,7 +9,7 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com
 ## Inhoudsopgave Readme
 
   * [Beschrijving](#beschrijving)
-  * [Wat ga ik doen?](#Wat-ga-ik-doen?)
+  * [Wat ga ik doen?](#wat-ga-ik-doen?)
   * [Huidig resultaat van de website](#huidig-resultaat-van-de-website)
   * [Schetsen](#schetsen)
   * [Kenmerken](#kenmerken)
@@ -23,7 +23,7 @@ Bieb in Bloei is een samenwerking tussen HVA en OBA. Met dit project willen ze o
 Ik heb de stekjes pagina gekregen, ik wil de pagina graag wat meer interactief maken. Ik wil zorgen dat Harry de plantenpot je meeneemt door alle beschikbare stekjes en hierbij de informatie geeft die je moet weten over de plantjes. Hierbij is het vooral belangrijk dat mensen ook weten hoe ze het stekje zo goed mogenlijk verzorgen, hierover komt dus ook informatie en dit wil ik ook interactief maken doormiddel van bijvoorbeeld een stralend zonnetje die aangeeft hoeveel zon/licht het plantje nodig heeft.
 Het eindresultaat moet een website worden waardoor je het gevoel hebt dat je bijna vrienden zou willen worden met Harry en zijn stekjes. 
 
-## Huidig resultaat van de website 
+## Huidig resultaat van de [website](https://anoukderooij24.github.io/the-client-website/) 
 De webpagina is helaas nog niet zo als ik voor ogen heb. Wegens ziekte heb ik twee weken gemist om eraan te kunnen werken, ik ga zeker nog hard aan de slag om de pagina helemaal werkend te maken. 
 De bais van de pagina staat al wel, op de stekjes pagina kan je een overzicht zien van de stekjes die er momenteel in de bieb aanwezig zijn. Door op een van de stekjes te klikken kom je bij alle informatie die je nodig hebt om voor het stekje te kunnen zorgen. 
 
